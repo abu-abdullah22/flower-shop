@@ -28,6 +28,11 @@ button {
     padding: 20px 40px;
 }
 
+button:hover{
+    background-color: aliceblue;
+    color:#E55473
+}
+
 .container {
     width: 75%;
     max-width: 1440px;
